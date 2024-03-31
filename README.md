@@ -1,6 +1,7 @@
 ### Hi there 👋
 hello hello hello,how're you?
 im fine im fine im fine thank you, and you?
+<script src="https://tryhackme.com/badge/2602532"></script>
 <!--
 **golderperson/golderperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
