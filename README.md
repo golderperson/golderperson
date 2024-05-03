@@ -1,7 +1,7 @@
 ### Hi there 👋
 hello hello hello,how're you?
 im fine im fine im fine thank you, and you?
-<img src="https://tryhackme-badges.s3.amazonaws.com/SRdkgrill.png" alt="TryHackMe">
+
 <!--
 **golderperson/golderperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
