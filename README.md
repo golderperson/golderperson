@@ -1,7 +1,7 @@
 ### Hi there 👋
 hello hello hello,how're you?
 im fine im fine im fine thank you, and you?
- https://golderperson.github.io/
+
 <!--
 **golderperson/golderperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
