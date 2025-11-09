@@ -1,8 +1,8 @@
 ### Hi there 👋
-💻Network & Kernel Dev Learner:
+💻Network & Kernel Dev Learner<br>
 🔧Building low-level tools and experimenting
-with systems:
-✍️Sharing my development & learning journey:
+with systems<br>
+✍️Sharing my development & learning journey<br>
 <!--
 **golderperson/golderperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
