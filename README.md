@@ -1,7 +1,8 @@
 ### Hi there 👋
-hello hello hello,how're you?
-im fine im fine im fine thank you, and you?
-
+Network & Kernel Dev Learner
+🔧Building low-level tools and experimenting
+with systems
+✍️Sharing my development & learning journey
 <!--
 **golderperson/golderperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
